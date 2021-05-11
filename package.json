@@ -4,10 +4,10 @@
   "description": "A simple Switch Price API to retrieve prices from the Official Nintendo API",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "schrealex",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
